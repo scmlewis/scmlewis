@@ -1,5 +1,5 @@
 ### 📊 **Welcome!** For a deep dive into my **Data Analytics Portfolio, Case Studies, and Insights**, please visit my dedicated website:
-# [→ **SCM Lewis Professional Portfolio** ←](https://v0-portfolio-website-eta-five.vercel.app/)
+# [→ **My Professional Portfolio** ←](https://v0-portfolio-website-eta-five.vercel.app/)
 
 # Hi there 👋
 
