@@ -1,11 +1,9 @@
-# Hi there 👋
-
-
-
-I'm passionate about **data analytics** and leveraging data-driven insights to solve real-world problems. I enjoy exploring datasets, building predictive models, and uncovering meaningful patterns through analysis.
-
 ### 📊 **Welcome!** For a deep dive into my **Data Analytics Portfolio, Case Studies, and Insights**, please visit my dedicated website:
 # [→ **SCM Lewis Professional Portfolio** ←](https://v0-portfolio-website-eta-five.vercel.app/)
+
+# Hi there 👋
+
+I'm passionate about **data analytics** and leveraging data-driven insights to solve real-world problems. I enjoy exploring datasets, building predictive models, and uncovering meaningful patterns through analysis.
 
 ## 📊 What I Do
 - Data analysis & visualization
