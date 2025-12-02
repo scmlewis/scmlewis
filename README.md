@@ -21,7 +21,7 @@ I'm passionate about **data analytics** and leveraging data-driven insights to s
 - **Customer Segmentation** - Clustering and segmentation analysis  
 - **House Price Prediction** - Regression modeling for real estate analytics  
 - **Cyclistic Case Study** - Data analysis for business insights  
-- **Obesity Prediction**  Predictive model to classify obesity risk using health and lifestyle features
+- **Obesity Prediction** - Predictive model to classify obesity risk using health and lifestyle features
 
 ##  Currently Learning
 Data engineering and advanced analytics techniques
