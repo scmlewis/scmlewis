@@ -6,13 +6,33 @@ If you want to see my full **Data Analytics portfolio** with all the fancy case 
 
 Otherwise, kick back and scroll through — I love digging into data, finding stories hidden in numbers, and building models that actually make sense in the real world.
 
-### Stuff I use all the time
+### Stuff I use
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?logo=jupyter&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=database&logoColor=white)
+
+#### Core data stack
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=NumPy&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-4E5B31?logo=python&logoColor=white)
+
+#### Machine learning & modeling
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+
+#### Visualization & storytelling
+![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
+![Dash](https://img.shields.io/badge/Dash-002B36?logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+
+#### Big data & scaling
+![Dask](https://img.shields.io/badge/Dask-FDA061?logo=dask&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white)
 
 (and a bunch of coffee ☕)
 
