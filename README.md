@@ -81,7 +81,6 @@ Otherwise, kick back and scroll through  I love digging into data, finding stori
 Always down to talk data, analytics, cool datasets, or just life in general.  
 Drop me a message anytime  I don't bite (unless it's pizza).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://scmlewis.vercel.app/)
 
 Thanks for stopping by! 
