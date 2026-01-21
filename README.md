@@ -2,7 +2,7 @@
 
 Welcome to my little corner of GitHub!  
 If you want to see my full **Data Analytics portfolio** with all the fancy case studies and write-ups, hop over to my site:  
- [my portfolio website](https://v0-portfolio-website-eta-five.vercel.app/)
+ [my portfolio website](https://scmlewis.vercel.app/)
 
 Otherwise, kick back and scroll through  I love digging into data, finding stories hidden in numbers, and building models that actually make sense in the real world.
 
