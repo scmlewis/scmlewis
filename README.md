@@ -1,15 +1,19 @@
-# Hey there 👋
+﻿# Hey there 
 
 Welcome to my little corner of GitHub!  
 If you want to see my full **Data Analytics portfolio** with all the fancy case studies and write-ups, hop over to my site:  
-🌟 [my portfolio website](https://v0-portfolio-website-eta-five.vercel.app/)
+ [my portfolio website](https://v0-portfolio-website-eta-five.vercel.app/)
 
-Otherwise, kick back and scroll through — I love digging into data, finding stories hidden in numbers, and building models that actually make sense in the real world.
+Otherwise, kick back and scroll through  I love digging into data, finding stories hidden in numbers, and building models that actually make sense in the real world.
 
-### Stuff I use
+---
+
+###  Stuff I use
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?logo=jupyter&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=database&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
 #### Core data stack
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
@@ -34,18 +38,50 @@ Otherwise, kick back and scroll through — I love digging into data, finding st
 ![Dask](https://img.shields.io/badge/Dask-FDA061?logo=dask&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white)
 
-(and a bunch of coffee ☕)
+(and a bunch of coffee )
 
-### Some projects I've done:
-- **Medical Insurance Premium Prediction** – Figuring out how much that health insurance is gonna cost
-- **Telco Customer Churn** – Why people ghost their phone company (and how to stop it)
-- **Customer Segmentation** – Grouping people who shop the same way
-- **House Price Prediction** – Because we all secretly want to know what our place is worth
-- **Cyclistic Bike-Share Case Study** – Helping bikes make business sense
-- **Obesity Risk Prediction** – Using lifestyle data to guess health risks
+---
 
-### Let’s chat!
+##  My Projects
+
+###  AI & Machine Learning
+| Project | Description |
+|---------|-------------|
+| [eatwise_ai](https://github.com/scmlewis/eatwise_ai) | AI-powered nutrition assistant that helps users make smarter food choices |
+| [semantic_search_app_food](https://github.com/scmlewis/semantic_search_app_food) | Semantic search engine with intent detection for querying nutrition databases |
+| [ds_assistant](https://github.com/scmlewis/ds_assistant) | Streamlit-powered data science assistant for automated EDA and insights |
+
+###  Predictive Analytics & ML Models
+| Project | Description |
+|---------|-------------|
+| [Medical-Insurance-Premium-Prediction](https://github.com/scmlewis/Medical-Insurance-Premium-Prediction) | Statistical model forecasting insurance premiums using Python and statsmodels |
+| [Telco-Customer-Churn-Prediction](https://github.com/scmlewis/Telco-Customer-Churn-Prediction) | Predictive analytics model identifying at-risk telecom customers |
+| [House_Price_Prediction](https://github.com/scmlewis/House_Price_Prediction) | Regression model for predicting residential property values |
+| [obesity_prediction](https://github.com/scmlewis/obesity_prediction) | Machine learning model for predicting obesity risk factors |
+| [Customer-Segmentation-Project](https://github.com/scmlewis/Customer-Segmentation-Project) | K-means clustering analysis for customer segmentation |
+
+###  Data Analytics & Case Studies
+| Project | Description |
+|---------|-------------|
+| [Google-DA-Capstone-Cyclistic-Case-Study](https://github.com/scmlewis/Google-DA-Capstone-Cyclistic-Case-Study) | Google Data Analytics capstone analyzing bike-share usage patterns |
+| [portfoiliolab](https://github.com/scmlewis/portfoiliolab) | Python-based portfolio analysis and optimization toolkit |
+
+###  Web Applications
+| Project | Description |
+|---------|-------------|
+| [pulsedrift](https://github.com/scmlewis/pulsedrift) | Real-time JavaScript application for dynamic data streaming and visualization |
+| [pdf_processing](https://github.com/scmlewis/pdf_processing) | Web application for extracting, parsing, and transforming PDF documents |
+| [Chromatique](https://github.com/scmlewis/Chromatique) | JavaScript tool for color palette generation and design harmony analysis |
+| [gaming-hub](https://github.com/scmlewis/gaming-hub) | TypeScript gaming platform aggregator and community dashboard |
+| [lottery_tool](https://github.com/scmlewis/lottery_tool) | Interactive HTML tool for lottery number analysis and probability calculations |
+
+---
+
+###  Let's chat!
 Always down to talk data, analytics, cool datasets, or just life in general.  
-Drop me a message anytime — I don’t bite (unless it’s pizza).
+Drop me a message anytime  I don't bite (unless it's pizza).
 
-Thanks for stopping by! 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://scmlewis.vercel.app/)
+
+Thanks for stopping by! 
