@@ -36,8 +36,6 @@ Otherwise, kick back and scroll through  I love digging into data, finding stori
 ![Dask](https://img.shields.io/badge/Dask-FDA061?logo=dask&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white)
 
-(and a bunch of coffee )
-
 ---
 
 ##  My Projects
