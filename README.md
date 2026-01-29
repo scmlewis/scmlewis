@@ -12,8 +12,6 @@ Otherwise, kick back and scroll through  I love digging into data, finding stori
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?logo=jupyter&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=database&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
 #### Core data stack
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
