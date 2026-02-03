@@ -47,7 +47,7 @@ Otherwise, kick back and scroll through  I love digging into data, finding stori
 | [semantic_search_app_food](https://github.com/scmlewis/semantic_search_app_food) | Semantic search engine with intent detection for querying nutrition databases |
 | [ds_assistant](https://github.com/scmlewis/ds_assistant) | Streamlit-powered data science assistant for automated EDA and insights |
 
-###  Predictive Analytics & ML Models
+###  Data Analytics, Predictive Analytics & ML Models
 | Project | Description |
 |---------|-------------|
 | [Medical-Insurance-Premium-Prediction](https://github.com/scmlewis/Medical-Insurance-Premium-Prediction) | Statistical model forecasting insurance premiums using Python and statsmodels |
@@ -55,12 +55,7 @@ Otherwise, kick back and scroll through  I love digging into data, finding stori
 | [House_Price_Prediction](https://github.com/scmlewis/House_Price_Prediction) | Regression model for predicting residential property values |
 | [obesity_prediction](https://github.com/scmlewis/obesity_prediction) | Machine learning model for predicting obesity risk factors |
 | [Customer-Segmentation-Project](https://github.com/scmlewis/Customer-Segmentation-Project) | K-means clustering analysis for customer segmentation |
-
-###  Data Analytics & Case Studies
-| Project | Description |
-|---------|-------------|
 | [Google-DA-Capstone-Cyclistic-Case-Study](https://github.com/scmlewis/Google-DA-Capstone-Cyclistic-Case-Study) | Google Data Analytics capstone analyzing bike-share usage patterns |
-| [portfoiliolab](https://github.com/scmlewis/portfoiliolab) | Python-based portfolio analysis and optimization toolkit |
 
 ###  Web Applications
 | Project | Description |
@@ -70,6 +65,7 @@ Otherwise, kick back and scroll through  I love digging into data, finding stori
 | [Chromatique](https://github.com/scmlewis/Chromatique) | JavaScript tool for color palette generation and design harmony analysis |
 | [gaming-hub](https://github.com/scmlewis/gaming-hub) | TypeScript gaming platform aggregator and community dashboard |
 | [lottery_tool](https://github.com/scmlewis/lottery_tool) | Interactive HTML tool for lottery number analysis and probability calculations |
+| [portfoiliolab](https://github.com/scmlewis/portfoiliolab) | Python-based portfolio analysis and optimization toolkit |
 
 ---
 
