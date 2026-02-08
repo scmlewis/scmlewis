@@ -46,6 +46,7 @@ Otherwise, kick back and scroll through  I love digging into data, finding stori
 | [eatwise_ai](https://github.com/scmlewis/eatwise_ai) | AI-powered nutrition assistant that helps users make smarter food choices |
 | [semantic_search_app_food](https://github.com/scmlewis/semantic_search_app_food) | Semantic search engine with intent detection for querying nutrition databases |
 | [ds_assistant](https://github.com/scmlewis/ds_assistant) | Streamlit-powered data science assistant for automated EDA and insights |
+| [PulseLens](https://github.com/scmlewis/PulseLens) | Customer feedback sentiment and aspect analyzer using Hugging Face zero-shot classification |
 
 ###  Data Analytics, Predictive Analytics & ML Models
 | Project | Description |
@@ -60,7 +61,7 @@ Otherwise, kick back and scroll through  I love digging into data, finding stori
 ###  Web Applications
 | Project | Description |
 |---------|-------------|
-| [pulsedrift](https://github.com/scmlewis/pulsedrift) | Real-time JavaScript application for dynamic data streaming and visualization |
+| [pulsedrift](https://github.com/scmlewis/pulsedrift) | Zen meditation timer with breathing exercises, ambient sounds, and mindfulness features |
 | [pdf_processing](https://github.com/scmlewis/pdf_processing) | Web application for extracting, parsing, and transforming PDF documents |
 | [Chromatique](https://github.com/scmlewis/Chromatique) | JavaScript tool for color palette generation and design harmony analysis |
 | [gaming-hub](https://github.com/scmlewis/gaming-hub) | TypeScript gaming platform aggregator and community dashboard |
