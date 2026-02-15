@@ -18,6 +18,7 @@ Otherwise, kick back and scroll through  I love digging into data, finding stori
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-4E5B31?logo=python&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-2C7FB8?logo=python&logoColor=white)
 
 #### Machine learning & modeling
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
@@ -57,6 +58,7 @@ Otherwise, kick back and scroll through  I love digging into data, finding stori
 | [obesity_prediction](https://github.com/scmlewis/obesity_prediction) | Machine learning model for predicting obesity risk factors |
 | [Customer-Segmentation-Project](https://github.com/scmlewis/Customer-Segmentation-Project) | K-means clustering analysis for customer segmentation |
 | [Google-DA-Capstone-Cyclistic-Case-Study](https://github.com/scmlewis/Google-DA-Capstone-Cyclistic-Case-Study) | Google Data Analytics capstone analyzing bike-share usage patterns |
+| [karate_club_network_analysis](https://github.com/scmlewis/karate_club_network_analysis) | Network analysis of Zachary’s Karate Club using centrality, community detection, and resilience simulations |
 
 ###  Web Applications
 | Project | Description |
