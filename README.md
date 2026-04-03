@@ -69,6 +69,11 @@ Otherwise, kick back and scroll through  I love digging into data, finding stori
 | [gaming-hub](https://github.com/scmlewis/gaming-hub) | TypeScript gaming platform aggregator and community dashboard |
 | [lottery_tool](https://github.com/scmlewis/lottery_tool) | Interactive HTML tool for lottery number analysis and probability calculations |
 | [portfoiliolab](https://github.com/scmlewis/portfoiliolab) | Python-based portfolio analysis and optimization toolkit |
+| [train.eta](https://github.com/scmlewis/train.eta) | Real-time ETA display for Hong Kong MTR, Light Rail, and MTR Bus |
+| [hk_school_finder](https://github.com/scmlewis/hk_school_finder) | Progressive web app to find kindergartens, primary, and secondary schools in Hong Kong |
+| [hk_a-e_waiting_time](https://github.com/scmlewis/hk_a-e_waiting_time) | Real-time waiting time dashboard for Hong Kong A&E services |
+| [qrtist](https://github.com/scmlewis/qrtist) | QR code generator progressive web app |
+| [litlist_hub](https://github.com/scmlewis/litlist_hub) | Book listing progressive web app for managing reading lists |
 
 ---
 
