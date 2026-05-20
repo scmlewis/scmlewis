@@ -44,36 +44,38 @@ Otherwise, kick back and scroll through  I love digging into data, finding stori
 ###  AI & Machine Learning
 | Project | Description |
 |---------|-------------|
-| [eatwise_ai](https://github.com/scmlewis/eatwise_ai) | AI-powered nutrition assistant that helps users make smarter food choices |
-| [semantic_search_app_food](https://github.com/scmlewis/semantic_search_app_food) | Semantic search engine with intent detection for querying nutrition databases |
-| [ds_assistant](https://github.com/scmlewis/ds_assistant) | Streamlit-powered data science assistant for automated EDA and insights |
-| [PulseLens](https://github.com/scmlewis/PulseLens) | Customer feedback sentiment and aspect analyzer using Hugging Face zero-shot classification |
+| [eatwise_ai](https://github.com/scmlewis/eatwise_ai) | An AI nutrition assistant for smarter food choices |
+| [semantic_search_app_food](https://github.com/scmlewis/semantic_search_app_food) | A semantic search app for nutrition databases |
+| [ds_assistant](https://github.com/scmlewis/ds_assistant) | A Streamlit assistant for automated EDA and insights |
+| [PulseLens](https://github.com/scmlewis/PulseLens) | A customer feedback sentiment and aspect analyzer with zero-shot classification |
 
 ###  Data Analytics, Predictive Analytics & ML Models
 | Project | Description |
 |---------|-------------|
-| [Medical-Insurance-Premium-Prediction](https://github.com/scmlewis/Medical-Insurance-Premium-Prediction) | Statistical model forecasting insurance premiums using Python and statsmodels |
-| [Telco-Customer-Churn-Prediction](https://github.com/scmlewis/Telco-Customer-Churn-Prediction) | Predictive analytics model identifying at-risk telecom customers |
-| [House_Price_Prediction](https://github.com/scmlewis/House_Price_Prediction) | Regression model for predicting residential property values |
-| [obesity_prediction](https://github.com/scmlewis/obesity_prediction) | Machine learning model for predicting obesity risk factors |
-| [Customer-Segmentation-Project](https://github.com/scmlewis/Customer-Segmentation-Project) | K-means clustering analysis for customer segmentation |
-| [Google-DA-Capstone-Cyclistic-Case-Study](https://github.com/scmlewis/Google-DA-Capstone-Cyclistic-Case-Study) | Google Data Analytics capstone analyzing bike-share usage patterns |
-| [karate_club_network_analysis](https://github.com/scmlewis/karate_club_network_analysis) | Network analysis of Zachary’s Karate Club using centrality, community detection, and resilience simulations |
+| [Medical-Insurance-Premium-Prediction](https://github.com/scmlewis/Medical-Insurance-Premium-Prediction) | A statistical model for forecasting insurance premiums |
+| [Telco-Customer-Churn-Prediction](https://github.com/scmlewis/Telco-Customer-Churn-Prediction) | A churn prediction model for identifying at-risk telecom customers |
+| [House_Price_Prediction](https://github.com/scmlewis/House_Price_Prediction) | A regression model for predicting residential property values |
+| [obesity_prediction](https://github.com/scmlewis/obesity_prediction) | A model for predicting obesity risk factors |
+| [Customer-Segmentation-Project](https://github.com/scmlewis/Customer-Segmentation-Project) | A K-means clustering analysis for customer segmentation |
+| [Google-DA-Capstone-Cyclistic-Case-Study](https://github.com/scmlewis/Google-DA-Capstone-Cyclistic-Case-Study) | A Google Data Analytics capstone on bike-share usage patterns |
+| [karate_club_network_analysis](https://github.com/scmlewis/karate_club_network_analysis) | A network analysis of Zachary's Karate Club |
 
 ###  Web Applications
 | Project | Description |
 |---------|-------------|
-| [pulsedrift](https://github.com/scmlewis/pulsedrift) | Zen meditation timer with breathing exercises, ambient sounds, and mindfulness features |
-| [pdf_processing](https://github.com/scmlewis/pdf_processing) | Web application for extracting, parsing, and transforming PDF documents |
-| [Chromatique](https://github.com/scmlewis/Chromatique) | JavaScript tool for color palette generation and design harmony analysis |
-| [gaming-hub](https://github.com/scmlewis/gaming-hub) | TypeScript gaming platform aggregator and community dashboard |
-| [lottery_tool](https://github.com/scmlewis/lottery_tool) | Interactive HTML tool for lottery number analysis and probability calculations |
-| [portfoiliolab](https://github.com/scmlewis/portfoiliolab) | Python-based portfolio analysis and optimization toolkit |
-| [train.eta](https://github.com/scmlewis/train.eta) | Real-time ETA display for Hong Kong MTR, Light Rail, and MTR Bus |
-| [hk_school_finder](https://github.com/scmlewis/hk_school_finder) | Progressive web app to find kindergartens, primary, and secondary schools in Hong Kong |
-| [hk_a-e_waiting_time](https://github.com/scmlewis/hk_a-e_waiting_time) | Real-time waiting time dashboard for Hong Kong A&E services |
-| [qrtist](https://github.com/scmlewis/qrtist) | QR code generator progressive web app |
-| [litlist_hub](https://github.com/scmlewis/litlist_hub) | Book listing progressive web app for managing reading lists |
+| [modern-weather-forecast-lab](https://github.com/scmlewis/modern-weather-forecast-lab) | A modern weather dashboard |
+| [linkshrink](https://github.com/scmlewis/linkshrink) | A URL shortener with analytics |
+| [pulsedrift](https://github.com/scmlewis/pulsedrift) | A mindfulness timer with breathing exercises and ambient sounds |
+| [pdf_processing](https://github.com/scmlewis/pdf_processing) | A web app for extracting, parsing, and transforming PDF documents |
+| [Chromatique](https://github.com/scmlewis/Chromatique) | A color palette generator and design harmony tool |
+| [gaming-hub](https://github.com/scmlewis/gaming-hub) | A TypeScript gaming platform aggregator and community dashboard |
+| [lottery_tool](https://github.com/scmlewis/lottery_tool) | An interactive lottery number analysis and probability tool |
+| [portfoiliolab](https://github.com/scmlewis/portfoiliolab) | A portfolio analysis and optimization toolkit |
+| [train.eta](https://github.com/scmlewis/train.eta) | A real-time ETA dashboard for Hong Kong MTR, Light Rail, and MTR Bus |
+| [hk_school_finder](https://github.com/scmlewis/hk_school_finder) | A PWA for finding kindergartens, primary, and secondary schools in Hong Kong |
+| [hk_a-e_waiting_time](https://github.com/scmlewis/hk_a-e_waiting_time) | A real-time waiting time dashboard for Hong Kong A&E services |
+| [qrtist](https://github.com/scmlewis/qrtist) | A QR code generator PWA |
+| [litlist_hub](https://github.com/scmlewis/litlist_hub) | A PWA for managing reading lists |
 
 ---
 
