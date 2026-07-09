@@ -1,6 +1,6 @@
-﻿# Data Analyst → Product Builder
+﻿# Data Analyst → AI-assisted Builder
 
-Building data-driven tools with Python, TypeScript, and AI.
+Solving real problems with Python, data, and AI coding tools.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://scmlewis.vercel.app/)
 
@@ -41,7 +41,7 @@ Building data-driven tools with Python, TypeScript, and AI.
 
 | | Project | What it does |
 |---|---------|-------------|
-| | [**train.eta**](https://github.com/scmlewis/train.eta) | Real-time arrival dashboard for Hong Kong MTR, Light Rail, and MTR Bus. Built with TypeScript and live transit APIs — never miss your train again. |
+| | [**train.eta**](https://github.com/scmlewis/train.eta) | Real-time arrival dashboard for Hong Kong MTR, Light Rail, and MTR Bus — live transit data at your fingertips. |
 | | [**gridify**](https://github.com/scmlewis/gridify) | Habit tracker that turns consistency into a game. Grid-based streaks, XP rewards, and level-ups keep you coming back. |
 | | [**ds_assistant**](https://github.com/scmlewis/ds_assistant) | Streamlit-powered data science sidekick — drop in any dataset and get automated EDA, visualizations, and insights in seconds. |
 | | [**thermapace**](https://github.com/scmlewis/thermapace) | VDOT pace calculator that factors in real-time weather — temperature, humidity, and wind degradation modeling for runners. |
@@ -78,7 +78,7 @@ Building data-driven tools with Python, TypeScript, and AI.
 | [pulsedrift](https://github.com/scmlewis/pulsedrift) | Calm-inducing mindfulness timer with guided breathing exercises, ambient soundscapes, and session tracking |
 | [pdf_processing](https://github.com/scmlewis/pdf_processing) | Web app that extracts, parses, and transforms PDF documents — batch process, merge, and convert files in-browser |
 | [Chromatique](https://github.com/scmlewis/Chromatique) | Color palette generator and harmony analyzer for designers — discover complementary, analogous, and triadic color schemes |
-| [gaming-hub](https://github.com/scmlewis/gaming-hub) | TypeScript-powered gaming aggregator that consolidates platforms, tracks releases, and builds community dashboards |
+| [gaming-hub](https://github.com/scmlewis/gaming-hub) | Gaming platform aggregator and community dashboard — consolidate your gaming life in one place |
 | [lottery_tool](https://github.com/scmlewis/lottery_tool) | Interactive probability analyzer for lottery numbers — frequency analysis, hot/cold numbers, and statistical breakdowns |
 | [portfoiliolab](https://github.com/scmlewis/portfoiliolab) | Python toolkit for portfolio optimization — Sharpe ratio analysis, efficient frontier visualization, and risk assessment |
 | [train.eta](https://github.com/scmlewis/train.eta) | Real-time arrival dashboard for Hong Kong MTR, Light Rail, and MTR Bus — never miss your train again |
