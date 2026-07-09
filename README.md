@@ -1,10 +1,8 @@
-﻿# Hey there 
+﻿# Data Analyst → Product Builder
 
-Welcome to my little corner of GitHub!  
-If you want to see my full **Data Analytics portfolio** with all the fancy case studies and write-ups, hop over to my site:  
- [my portfolio website](https://scmlewis.vercel.app/)
+Building data-driven tools with Python, TypeScript, and AI.
 
-Otherwise, kick back and scroll through  I love digging into data, finding stories hidden in numbers, and building models that actually make sense in the real world.
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://scmlewis.vercel.app/)
 
 ---
 
@@ -38,6 +36,18 @@ Otherwise, kick back and scroll through  I love digging into data, finding stori
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white)
 
 ---
+
+##  Featured Projects
+
+| | Project | What it does |
+|---|---------|-------------|
+| | [**train.eta**](https://github.com/scmlewis/train.eta) | Real-time arrival dashboard for Hong Kong MTR, Light Rail, and MTR Bus. Built with TypeScript and live transit APIs — never miss your train again. |
+| | [**gridify**](https://github.com/scmlewis/gridify) | Habit tracker that turns consistency into a game. Grid-based streaks, XP rewards, and level-ups keep you coming back. |
+| | [**ds_assistant**](https://github.com/scmlewis/ds_assistant) | Streamlit-powered data science sidekick — drop in any dataset and get automated EDA, visualizations, and insights in seconds. |
+| | [**thermapace**](https://github.com/scmlewis/thermapace) | VDOT pace calculator that factors in real-time weather — temperature, humidity, and wind degradation modeling for runners. |
+
+<details>
+<summary>See all 27 projects</summary>
 
 ##  My Projects
 
@@ -81,6 +91,8 @@ Otherwise, kick back and scroll through  I love digging into data, finding stori
 | [travel-split](https://github.com/scmlewis/travel-split) | Expense splitter for group trips — log shared costs, settle debts, and keep travel budgets transparent |
 
 ---
+
+</details>
 
 ###  Let's chat!
 Always down to talk data, analytics, cool datasets, or just life in general.  
