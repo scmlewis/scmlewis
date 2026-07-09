@@ -44,41 +44,41 @@ Otherwise, kick back and scroll through  I love digging into data, finding stori
 ###  AI & Machine Learning
 | Project | Description |
 |---------|-------------|
-| [eatwise_ai](https://github.com/scmlewis/eatwise_ai) | An AI nutrition assistant for smarter food choices |
-| [semantic_search_app_food](https://github.com/scmlewis/semantic_search_app_food) | A semantic search app for nutrition databases |
-| [ds_assistant](https://github.com/scmlewis/ds_assistant) | A Streamlit assistant for automated EDA and insights |
-| [PulseLens](https://github.com/scmlewis/PulseLens) | A customer feedback sentiment and aspect analyzer with zero-shot classification |
+| [eatwise_ai](https://github.com/scmlewis/eatwise_ai) | AI-powered nutrition coach that analyzes meals, tracks macros, and helps you eat smarter — built with NLP and food data APIs |
+| [semantic_search_app_food](https://github.com/scmlewis/semantic_search_app_food) | Natural language search engine for nutrition databases — ask questions like "high protein low carb snacks" and get instant results |
+| [ds_assistant](https://github.com/scmlewis/ds_assistant) | Streamlit-powered data science sidekick that automates EDA, generates visualizations, and surfaces hidden insights from any dataset |
+| [PulseLens](https://github.com/scmlewis/PulseLens) | Customer feedback analyzer using zero-shot classification to extract sentiment and key themes — no labeled data needed |
 
 ###  Data Analytics, Predictive Analytics & ML Models
 | Project | Description |
 |---------|-------------|
-| [Medical-Insurance-Premium-Prediction](https://github.com/scmlewis/Medical-Insurance-Premium-Prediction) | A statistical model for forecasting insurance premiums |
-| [Telco-Customer-Churn-Prediction](https://github.com/scmlewis/Telco-Customer-Churn-Prediction) | A churn prediction model for identifying at-risk telecom customers |
-| [House_Price_Prediction](https://github.com/scmlewis/House_Price_Prediction) | A regression model for predicting residential property values |
-| [obesity_prediction](https://github.com/scmlewis/obesity_prediction) | A model for predicting obesity risk factors |
-| [Customer-Segmentation-Project](https://github.com/scmlewis/Customer-Segmentation-Project) | A K-means clustering analysis for customer segmentation |
-| [Google-DA-Capstone-Cyclistic-Case-Study](https://github.com/scmlewis/Google-DA-Capstone-Cyclistic-Case-Study) | A Google Data Analytics capstone on bike-share usage patterns |
-| [karate_club_network_analysis](https://github.com/scmlewis/karate_club_network_analysis) | A network analysis of Zachary's Karate Club |
+| [Medical-Insurance-Premium-Prediction](https://github.com/scmlewis/Medical-Insurance-Premium-Prediction) | Statistical modeling with Python and statsmodels to forecast insurance premiums based on age, BMI, smoking status, and more |
+| [Telco-Customer-Churn-Prediction](https://github.com/scmlewis/Telco-Customer-Churn-Prediction) | Predictive model that identifies at-risk telecom customers before they leave — feature engineering meets business retention strategy |
+| [House_Price_Prediction](https://github.com/scmlewis/House_Price_Prediction) | Regression model for estimating residential property values using market features, location data, and housing attributes |
+| [obesity_prediction](https://github.com/scmlewis/obesity_prediction) | ML pipeline that predicts obesity risk levels from health and lifestyle metrics — explores which factors matter most |
+| [Customer-Segmentation-Project](https://github.com/scmlewis/Customer-Segmentation-Project) | K-means clustering deep dive that segments customers by behavior and spending patterns for targeted marketing insights |
+| [Google-DA-Capstone-Cyclistic-Case-Study](https://github.com/scmlewis/Google-DA-Capstone-Cyclistic-Case-Study) | Google Data Analytics capstone analyzing 12 months of bike-share data to uncover seasonal trends and rider behavior |
+| [karate_club_network_analysis](https://github.com/scmlewis/karate_club_network_analysis) | Graph theory exploration of Zachary's Karate Club — visualizing community detection and network centrality with NetworkX |
 
 ###  Web Applications
 | Project | Description |
 |---------|-------------|
-| [modern-weather-forecast-lab](https://github.com/scmlewis/modern-weather-forecast-lab) | A modern weather dashboard |
-| [linkshrink](https://github.com/scmlewis/linkshrink) | A URL shortener with analytics |
-| [pulsedrift](https://github.com/scmlewis/pulsedrift) | A mindfulness timer with breathing exercises and ambient sounds |
-| [pdf_processing](https://github.com/scmlewis/pdf_processing) | A web app for extracting, parsing, and transforming PDF documents |
-| [Chromatique](https://github.com/scmlewis/Chromatique) | A color palette generator and design harmony tool |
-| [gaming-hub](https://github.com/scmlewis/gaming-hub) | A TypeScript gaming platform aggregator and community dashboard |
-| [lottery_tool](https://github.com/scmlewis/lottery_tool) | An interactive lottery number analysis and probability tool |
-| [portfoiliolab](https://github.com/scmlewis/portfoiliolab) | A portfolio analysis and optimization toolkit |
-| [train.eta](https://github.com/scmlewis/train.eta) | A real-time ETA dashboard for Hong Kong MTR, Light Rail, and MTR Bus |
-| [hk_school_finder](https://github.com/scmlewis/hk_school_finder) | A PWA for finding kindergartens, primary, and secondary schools in Hong Kong |
-| [hk_a-e_waiting_time](https://github.com/scmlewis/hk_a-e_waiting_time) | A real-time waiting time dashboard for Hong Kong A&E services |
-| [qrtist](https://github.com/scmlewis/qrtist) | A QR code generator PWA |
-| [litlist_hub](https://github.com/scmlewis/litlist_hub) | A PWA for managing reading lists |
-| [gridify](https://github.com/scmlewis/gridify) | A grid-like habit tracker with gamification as motivation |
-| [thermapace](https://github.com/scmlewis/thermapace) | A dynamic VDOT pace calculator with real-time weather degradation modeling |
-| [travel-split](https://github.com/scmlewis/travel-split) | A travel expense splitting app |
+| [modern-weather-forecast-lab](https://github.com/scmlewis/modern-weather-forecast-lab) | Sleek weather dashboard with animated forecasts, interactive maps, and multi-day outlooks — built with modern web APIs |
+| [linkshrink](https://github.com/scmlewis/linkshrink) | URL shortener with built-in analytics — track clicks, referrers, and geographic data on every link you share |
+| [pulsedrift](https://github.com/scmlewis/pulsedrift) | Calm-inducing mindfulness timer with guided breathing exercises, ambient soundscapes, and session tracking |
+| [pdf_processing](https://github.com/scmlewis/pdf_processing) | Web app that extracts, parses, and transforms PDF documents — batch process, merge, and convert files in-browser |
+| [Chromatique](https://github.com/scmlewis/Chromatique) | Color palette generator and harmony analyzer for designers — discover complementary, analogous, and triadic color schemes |
+| [gaming-hub](https://github.com/scmlewis/gaming-hub) | TypeScript-powered gaming aggregator that consolidates platforms, tracks releases, and builds community dashboards |
+| [lottery_tool](https://github.com/scmlewis/lottery_tool) | Interactive probability analyzer for lottery numbers — frequency analysis, hot/cold numbers, and statistical breakdowns |
+| [portfoiliolab](https://github.com/scmlewis/portfoiliolab) | Python toolkit for portfolio optimization — Sharpe ratio analysis, efficient frontier visualization, and risk assessment |
+| [train.eta](https://github.com/scmlewis/train.eta) | Real-time arrival dashboard for Hong Kong MTR, Light Rail, and MTR Bus — never miss your train again |
+| [hk_school_finder](https://github.com/scmlewis/hk_school_finder) | PWA for parents to discover kindergartens, primary, and secondary schools across Hong Kong with filters and maps |
+| [hk_a-e_waiting_time](https://github.com/scmlewis/hk_a-e_waiting_time) | Live waiting time tracker for Hong Kong A&E departments — helps you decide which hospital to head to |
+| [qrtist](https://github.com/scmlewis/qrtist) | Beautifully designed QR code generator PWA — customize colors, add logos, and download in multiple formats |
+| [litlist_hub](https://github.com/scmlewis/litlist_hub) | Reading list manager PWA for tracking books, progress, and notes — your personal digital bookshelf |
+| [gridify](https://github.com/scmlewis/gridify) | Habit tracker that turns consistency into a game — grid-based streaks, XP rewards, and level-ups keep you motivated |
+| [thermapace](https://github.com/scmlewis/thermapace) | VDOT pace calculator that factors in real-time weather — temperature, humidity, and wind degradation modeling for runners |
+| [travel-split](https://github.com/scmlewis/travel-split) | Expense splitter for group trips — log shared costs, settle debts, and keep travel budgets transparent |
 
 ---
 
