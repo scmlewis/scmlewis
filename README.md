@@ -76,6 +76,9 @@ Otherwise, kick back and scroll through  I love digging into data, finding stori
 | [hk_a-e_waiting_time](https://github.com/scmlewis/hk_a-e_waiting_time) | A real-time waiting time dashboard for Hong Kong A&E services |
 | [qrtist](https://github.com/scmlewis/qrtist) | A QR code generator PWA |
 | [litlist_hub](https://github.com/scmlewis/litlist_hub) | A PWA for managing reading lists |
+| [gridify](https://github.com/scmlewis/gridify) | A grid-like habit tracker with gamification as motivation |
+| [thermapace](https://github.com/scmlewis/thermapace) | A dynamic VDOT pace calculator with real-time weather degradation modeling |
+| [travel-split](https://github.com/scmlewis/travel-split) | A travel expense splitting app |
 
 ---
 
