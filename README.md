@@ -47,7 +47,7 @@ Solving real problems with Python, data, and AI coding tools.
 | | [**thermapace**](https://github.com/scmlewis/thermapace) | VDOT pace calculator that factors in real-time weather — temperature, humidity, and wind degradation modeling for runners. |
 
 <details>
-<summary>See all 27 projects</summary>
+<summary>See all 29 projects</summary>
 
 ##  My Projects
 
@@ -69,6 +69,7 @@ Solving real problems with Python, data, and AI coding tools.
 | [Customer-Segmentation-Project](https://github.com/scmlewis/Customer-Segmentation-Project) | K-means clustering deep dive that segments customers by behavior and spending patterns for targeted marketing insights |
 | [Google-DA-Capstone-Cyclistic-Case-Study](https://github.com/scmlewis/Google-DA-Capstone-Cyclistic-Case-Study) | Google Data Analytics capstone analyzing 12 months of bike-share data to uncover seasonal trends and rider behavior |
 | [karate_club_network_analysis](https://github.com/scmlewis/karate_club_network_analysis) | Graph theory exploration of Zachary's Karate Club — visualizing community detection and network centrality with NetworkX |
+| [pokestats](https://github.com/scmlewis/pokestats) | PCA analysis of Pokemon stats — exploring what makes each species statistically unique |
 
 ###  Web Applications
 | Project | Description |
@@ -84,6 +85,7 @@ Solving real problems with Python, data, and AI coding tools.
 | [train.eta](https://github.com/scmlewis/train.eta) | Real-time arrival dashboard for Hong Kong MTR, Light Rail, and MTR Bus — never miss your train again |
 | [hk_school_finder](https://github.com/scmlewis/hk_school_finder) | PWA for parents to discover kindergartens, primary, and secondary schools across Hong Kong with filters and maps |
 | [hk_a-e_waiting_time](https://github.com/scmlewis/hk_a-e_waiting_time) | Live waiting time tracker for Hong Kong A&E departments — helps you decide which hospital to head to |
+| [sushiro-hk-live](https://github.com/scmlewis/sushiro-hk-live) | Real-time tracker for Sushiro stores across Hong Kong — ticket numbers, wait lists, and estimated wait times |
 | [qrtist](https://github.com/scmlewis/qrtist) | Beautifully designed QR code generator PWA — customize colors, add logos, and download in multiple formats |
 | [litlist_hub](https://github.com/scmlewis/litlist_hub) | Reading list manager PWA for tracking books, progress, and notes — your personal digital bookshelf |
 | [gridify](https://github.com/scmlewis/gridify) | Habit tracker that turns consistency into a game — grid-based streaks, XP rewards, and level-ups keep you motivated |
